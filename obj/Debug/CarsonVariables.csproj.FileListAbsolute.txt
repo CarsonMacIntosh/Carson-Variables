@@ -1,0 +1,7 @@
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\obj\Debug\CarsonVariables.csproj.AssemblyReference.cache
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\obj\Debug\CarsonVariables.csproj.CoreCompileInputs.cache
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\bin\Debug\CarsonVariables.exe.config
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\bin\Debug\CarsonVariables.exe
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\bin\Debug\CarsonVariables.pdb
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\obj\Debug\CarsonVariables.exe
+C:\Users\w0441119\source\repos\CarsonVariables\CarsonVariables\obj\Debug\CarsonVariables.pdb
